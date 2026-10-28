@@ -12,7 +12,6 @@
 - ./petijuma-metozu-izvele.pdf
 - ./etika-un-akademiskais-godigums.pdf
 
-
 ### ./zpd-vadlinijas-2026.pdf
 
 Galvenās ZPD izstrādes vadlīnijas. Dokumentā meklējamas prasības darba plānošanai, izstrādei, noformēšanai un vērtēšanai. Vadlīnijas izmanto visā ZPD izstrādes procesā, īpaši pārbaudot darba struktūru un savstarpējo atbilstību starp tēmu, pētījuma problēmu, mērķi, uzdevumiem, pētījuma jautājumu vai hipotēzi, rezultātiem un secinājumiem.
