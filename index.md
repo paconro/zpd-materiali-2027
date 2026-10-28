@@ -8,9 +8,9 @@
 
 ## Dokumenti
 
-- ./zpd-vadlinijas-2026.pdf
-- ./petijuma-metozu-izvele.pdf
-- ./etika-un-akademiskais-godigums.pdf
+- [ZPD vadlīnijas 2026](./zpd-vadlinijas-2026.pdf)
+- [Pētījuma metožu izvēle](./petijuma-metozu-izvele.pdf)
+- [Ētika un akadēmiskais godīgums](./etika-un-akademiskais-godigums.pdf)
 
 ### ./zpd-vadlinijas-2026.pdf
 
