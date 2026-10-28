@@ -2,7 +2,16 @@
 
 Šajā repozitorijā apkopoti galvenie materiāli zinātniski pētnieciskā darba (ZPD) izstrādei. Tie palīdz plānot pētījumu, izvēlēties piemērotas pētniecības metodes un ievērot akadēmiskās ētikas un godīguma principus.
 
-## Materiāli
+# ZPD materiāli 2027
+
+Šajā lapā apkopoti materiāli skolēnu zinātniski pētniecisko darbu izstrādei.
+
+## Dokumenti
+
+- ./zpd-vadlinijas-2026.pdf
+- ./petijuma-metozu-izvele.pdf
+- ./etika-un-akademiskais-godigums.pdf
+
 
 ### ./zpd-vadlinijas-2026.pdf
 
